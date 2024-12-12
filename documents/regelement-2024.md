@@ -111,12 +111,12 @@ race.
 # Art. 7 Winnaar
 De winnaar is de equipe die het meest aantal ronden heeft afgelegd tussen de start- en finishtijd van de race, na verwerking van straffen en bonussen.
 
-# Art. 7.1 Ex-aequo
+## Art. 7.1 Ex-aequo
 Wanneer meerdere equipes voldoen aan artikel 7, zal het OC de rangorde en dus de uiteindelijke winnaar bepalen op basis van de meest toegekende bonusronden.
 
 Als er dan nog geen winnaar kan worden aangewezen zal het OC beslissen op basis van de mooiste auto in de gedachten van de JYR Races.
 
-# Art. 7.2 Rijgedrag
+## Art. 7.2 Rijgedrag
 Bij elke vorm van contact worden alle betrokken teams bestraft. Het afblokken van een andere rijder is niet toegestaan en wordt bestraft door de wedstrijdleider.
 
 # Art. 8 Wedstrijdnummers
@@ -176,7 +176,7 @@ Bij afwezigheid van een pomp op het circuit kan buiten de wedstrijd om gebruik
 worden gemaakt van een jerrycan. Deze jerrycan mag alleen worden gebruikt in de door de
 OC beschikbaar gestelde tankplaats.
 
-# Art. 11.6 Rijderswissel
+## Art. 11.6 Rijderswissel
 ### 11.6.1 
 Het minimaal aantal wissels dat moet worden uitgevoerd is 11, kortom 12 stints.
 ### 11.6.2 
@@ -200,13 +200,13 @@ Indien tijdens de vrije trainingen een deelnemer sneller is dan de referentietij
 ### Wedstrijd
 Indien tijdens de wedstrijd een deelnemer sneller is dan de referentietijd, dan wordt deze ronde direct geschrapt en kan men deze ronde(n) als verloren beschouwen. Tevens wordt men gestraft met een Stop & Go penalty.
 
-# Art. 11.9 Herstartprocedure
+## Art. 11.9 Herstartprocedure
 Na het stilleggen van een wedstrijd door een code rood, zal de race worden herstart conform dezelfde procedure als omschreven in **Art. 11.3 Startprocedure**
 
-# Art. 11.10 Parc Fermé
+## Art. 11.10 Parc Fermé
 Na de finish kan de TC auto’s opnieuw controleren op conformiteit van het reglement. 
 
-# Art.12 Communicatie / Datalogging - Telemetrie / MYLAPS TnetX 
+## Art.12 Communicatie / Datalogging - Telemetrie / MYLAPS TnetX 
 Telemetrie, datalogging, communicatie en laptimers zijn niet toegestaan. Voor communicatie tussen pitstraat en coureur mogen alleen zogenaamde pitborden worden gebruikt. Het gebruik van een door de organisatie voorgeschreven Mylaps / Mylaps transponder is verplicht. Het gebruik van een eigen permanente transponder is toegestaan.
 
 ## Art.12.1 Locatie leentransponder
