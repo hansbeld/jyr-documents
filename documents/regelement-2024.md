@@ -17,10 +17,8 @@ In dit reglement staan een aantal omschrijvingen vermeld, waarmee de volgende pe
 
 # Art. 3 Reglementen
 Op de wedstrijden, tellende voor het klassement van de JYR Races, zijn van toepassing:
-a. b. FIA Code Sportif International en haar Annexes 2024;
-Dit reglement van de JYR Races, inclusief alle aanvullingen.
-Alléén deze reglementen tezamen vormen het officiële wedstrijdreglement en alle
-deelnemende rijders worden geacht er volledig mee op de hoogte te zijn.
+a. FIA Code Sportif International en haar Annexes 2024;
+b. Dit reglement van de JYR Races, inclusief alle aanvullingen. Alléén deze reglementen tezamen vormen het officiële wedstrijdreglement en alle deelnemende rijders worden geacht er volledig mee op de hoogte te zijn.
 
 # Art. 3.1 Bulletins
 De JYR organisatie heeft het recht om alle deelnemers en inschrijvers/teams te informeren
@@ -30,28 +28,18 @@ via Bulletins (aanvullingen op en/of wijzigingen in het Reglement.)
 Elke inschrijver, die wenst deel te nemen aan een wedstrijd moet het digitale inschrijfformulier, te vinden op www.jyr.nl, compleet hebben ingevuld en verstuurd. De inschrijfgelden, indien van toepassing, komen ten laste van de hoofdinschrijver. Inschrijving is definitief na betaling van het inschrijfgeld.
 
 # Art. 4.1 Deelnemer
-In de wedstrijd mag een inschrijver per rijder en/of equipe slechts één en dezelfde auto
-inschrijven en ervan gebruikmaken. Alléén in geval van force majeure kan het OC anders
-beslissen. Een team bestaat uit minimaal 3 en maximaal 6 rijders.
+In de wedstrijd mag een inschrijver per rijder en/of equipe slechts één en dezelfde auto inschrijven en ervan gebruikmaken. Alléén in geval van force majeure kan het OC anders beslissen. Een team bestaat uit minimaal 3 en maximaal 6 rijders.
 1 1
 20 maart 2024
 
 # Art. 4.2 Weigering
-De organisator mag zich het recht voorbehouden iedere kandidatuur te onderzoeken en mag
-de inschrijving weigeren zonder opgave van reden.
+De organisator mag zich het recht voorbehouden iedere kandidatuur te onderzoeken en mag de inschrijving weigeren zonder opgave van reden.
 
 # Art. 5 Deelnemers/rijbewijs/licenties
-Inschrijving voor de wedstrijden in het kader van de JYR Races zijn opengesteld voor alle
-rijders met een geldige racelicentie, een geldig Nederlands rijbewijs B of een rijbewijs die is
-afgegeven door een andere EU-lidstaat of van een vergelijkbaar land als zodanig
-aangemerkt door de FIA.
+Inschrijving voor de wedstrijden in het kader van de JYR Races zijn opengesteld voor alle rijders met een geldige racelicentie, een geldig Nederlands rijbewijs B of een rijbewijs die is afgegeven door een andere EU-lidstaat of van een vergelijkbaar land als zodanig aangemerkt door de FIA.
 
 # Art. 5.1 Uitrusting rijder
-De complete outfit dient bij ieder wedstrijdonderdeel te worden gedragen. Bij de voorkeuring
-dient de rijdersuitrusting van alle teamleden ter keuring worden voorgelegd.
-Zie voor de levensduur, geldigheid van de keurmerken ons addendum aan het einde van dit
-document: “Addendum I Levensduur, geldigheid van keurmerken”.
-Onder rijdersuitrusting wordt verstaan:
+De complete outfit dient bij ieder wedstrijdonderdeel te worden gedragen. Bij de voorkeuring dient de rijdersuitrusting van alle teamleden ter keuring worden voorgelegd. Zie voor de levensduur, geldigheid van de keurmerken ons addendum aan het einde van dit document: “Addendum I Levensduur, geldigheid van keurmerken”. Onder rijdersuitrusting wordt verstaan:
 - Race-overall;
 - Ondergoed (shirt met lange mouwen en broek met lange pijpen);
 - Sokken;
@@ -60,23 +48,20 @@ Onder rijdersuitrusting wordt verstaan:
 - Handschoenen;
 - Helm met eventueel FHR-systeem (HANS of Hybrid);
 - Arm restraint (conform SFI 3.3.)
-Voor alle kleding geldt dat deze in goede staat moet verkeren. Gaten/scheuren betekent
-afkeur.
+Voor alle kleding geldt dat deze in goede staat moet verkeren. Gaten/scheuren betekent afkeur.
+
 Helm
+
 Een goedgekeurde, geldige autosporthelm.
-Eventueel aanwezige luidsprekers zijn niet toegestaan en moeten worden verwijderd. De
-aanwezigheid van enkel een microfoon is wel toegestaan, maar mag niet worden gebruikt.
+Eventueel aanwezige luidsprekers zijn niet toegestaan en moeten worden verwijderd. De aanwezigheid van enkel een microfoon is wel toegestaan, maar mag niet worden gebruikt.
+
 FHR systeem
-Het gebruik van een FHR systeem (HANS of Hybrid) is toegestaan en wordt ten zeerste
-aanbevolen. Wanneer een gordel wordt gebruikt met 2 inch schoudergordels dienen alle
-teamleden te rijden met een FHR systeem.
+
+Het gebruik van een FHR systeem (HANS of Hybrid) is toegestaan en wordt ten zeerste aanbevolen. Wanneer een gordel wordt gebruikt met 2 inch schoudergordels dienen alle teamleden te rijden met een FHR systeem.
 
 # Art. 5.2 Arm restraint
-Een arm restraint, bevestigd aan de onderarm (arm aan raamzijde) en aan de knop van de
-veiligheidsgordel of aan de heupgordel, is verplicht. Het verbinden van de riem met een
-volledig en snel sluitende klimhaak voor de bergsport is daarbij toegestaan.
-2 2
-20 maart 2024
+Een arm restraint, bevestigd aan de onderarm (arm aan raamzijde) en aan de knop van de veiligheidsgordel of aan de heupgordel, is verplicht. Het verbinden van de riem met een volledig en snel sluitende klimhaak voor de bergsport is daarbij toegestaan.
+
 
 # Art. 6 Toegelaten wagens
 Het OC bepaalt of een auto wordt toegelaten voor deelname aan de JYR Races.
@@ -91,32 +76,29 @@ dagwaarde hebben van € 750.
 - De auto’s moeten uitgevoerd zijn in het thema van het huidige evenement of
 vorige evenementen.
 ## Art.6.1 Klasse indeling
-Divisie III Divisie II Divisie I Diesel en/of benzine bestelauto’s en/of busjes met een motorinhoud tot en met
-3000cc met of zonder turbo
+
+### Divisie 3
+Diesel en/of benzine bestelauto’s en/of busjes met een motorinhoud tot en met 3000cc met of zonder turbo
+
+### Divisie 2
 Benzineauto’s met een motorinhoud tot en met 2000cc zonder turbo
 Benzineauto’s met een motorinhoud tot en met 1500cc met turbo
-Benzine auto’s met een motorinhoud groter dan 2000cc met een maximum tot
-3000cc zonder turbo
-Benzineauto’s met een motorinhoud groter dan 1500cc met een maximum tot
-2000cc met turbo
+
+### Divisie 1
+Benzine auto’s met een motorinhoud groter dan 2000cc met een maximum tot 3000cc zonder turbo
+Benzineauto’s met een motorinhoud groter dan 1500cc met een maximum tot 2000cc met turbo
 Dacia Logan DNRT Cup auto’s
 Volvo 360 DNRT Cup auto’s
-De inschrijver geeft op het inschrijfformulier aan in welke divisie hij uitkomt. Het OC behoudt
-het recht om een deelnemer in een andere divisie in te delen. Een compressor of een G-
-lader wordt gezien als een turbo bij de klasse-indeling.
+
+De inschrijver geeft op het inschrijfformulier aan in welke divisie hij uitkomt. Het OC behoudt het recht om een deelnemer in een andere divisie in te delen. Een compressor of een G-lader wordt gezien als een turbo bij de klasse-indeling.
 
 # Art. 6.2 Thema
-Elke auto dient iets aan het thema van de race te hebben uitgevoerd op zijn auto. Daarbij
-kan gedacht worden aan een opvallend 3D element. Goedkeuring van de thematiek van de
-auto is aan het OC. Auto’s mogen ook nog uitgevoerd zijn in het thema van de vorige races,
-maar deze auto’s dingen niet mee naar de “Best Theme Award” en komen ook niet in
-aanmerking voor bonusronden.
-Alle 3D-elementen dienen niet extreem uit te steken aan de zijkanten van de auto en dienen
-deugdelijk te zijn bevestigd. De TC bepaalt wat wel/niet verantwoord is bij de keuring van de
-auto.
-Gedurende de wedstrijd wordt bepaald door de wedstrijdleider welke auto’s extra ronden
-krijgen toegewezen door het voldoen aan dit artikel. Hierover kan niet worden
-gecorrespondeerd.
+Elke auto dient iets aan het thema van de race te hebben uitgevoerd op zijn auto. Daarbij kan gedacht worden aan een opvallend 3D element. Goedkeuring van de thematiek van de auto is aan het OC. Auto’s mogen ook nog uitgevoerd zijn in het thema van de vorige races, maar deze auto’s dingen niet mee naar de “Best Theme Award” en komen ook niet in aanmerking voor bonusronden.
+
+Alle 3D-elementen dienen niet extreem uit te steken aan de zijkanten van de auto en dienen deugdelijk te zijn bevestigd. De TC bepaalt wat wel/niet verantwoord is bij de keuring van de auto. 
+
+Gedurende de wedstrijd wordt bepaald door de wedstrijdleider welke auto’s extra ronden krijgen toegewezen door het voldoen aan dit artikel. Hierover kan niet worden gecorrespondeerd.
+
 Richtlijn hiervoor is:
 - De top drie mooiste teams die voldoen aan het huidige thema krijgen
 respectievelijk 5, 4 en 3 bonusronden.
@@ -127,11 +109,12 @@ De toegewezen bonusronden worden op hetzelfde moment verwerkt in de stand van de
 race.
 
 # Art. 7 Winnaar
-De winnaar is de equipe die het meest aantal ronden heeft afgelegd tussen de start- en
-finishtijd van de race, na verwerking van straffen en bonussen.
+De winnaar is de equipe die het meest aantal ronden heeft afgelegd tussen de start- en finishtijd van de race, na verwerking van straffen en bonussen.
 
 # Art. 7.1 Ex-aequo
-Wanneer meerdere equipes voldoen aan artikel 7, zal het OC de rangorde en dus de uiteindelijke winnaar bepalen op basis van de meest toegekende bonusronden. Als er dan nog geen winnaar kan worden aangewezen zal het OC beslissen op basis van de mooiste auto in de gedachten van de JYR Races.
+Wanneer meerdere equipes voldoen aan artikel 7, zal het OC de rangorde en dus de uiteindelijke winnaar bepalen op basis van de meest toegekende bonusronden.
+
+Als er dan nog geen winnaar kan worden aangewezen zal het OC beslissen op basis van de mooiste auto in de gedachten van de JYR Races.
 
 # Art. 7.2 Rijgedrag
 Bij elke vorm van contact worden alle betrokken teams bestraft. Het afblokken van een andere rijder is niet toegestaan en wordt bestraft door de wedstrijdleider.
@@ -140,7 +123,9 @@ Bij elke vorm van contact worden alle betrokken teams bestraft. Het afblokken va
 Het cijfer, dat dient als wedstrijdnummer, kan zelf worden gekozen door het team tijdens de inschrijving. Het team wordt voorzien in de juiste stickers door de JYR-organisatie, welke vervolgens door het team conform het JYR Stickerschema moet worden geplaatst. Het OC houdt het recht om een team een ander nummer toe te wijzen.
 
 # Art. 9 Publiciteit
-De door de JYR-organisatie opgelegde publiciteit en reclame-uitingen dienen op de aangeduide en voorbehouden plaatsen op de wagen en raceoverall aangebracht te worden volgens een ter beschikking gestelde schets. Tijdens alle wedstrijdonderdelen dienen alle deelnemers en wagens de JYR sponsoruitingen te voeren. Alle ruitoppervlakken moeten vrij blijven, met uitzondering van de voorruitstrip voor de JYR- sponsor, de rijdersnaamaanduidingen en het wedstrijdnummer op de voor-, achter- en achterzijruiten. 
+De door de JYR-organisatie opgelegde publiciteit en reclame-uitingen dienen op de aangeduide en voorbehouden plaatsen op de wagen en raceoverall aangebracht te worden volgens een ter beschikking gestelde schets. Tijdens alle wedstrijdonderdelen dienen alle deelnemers en wagens de JYR sponsoruitingen te voeren. 
+
+Alle ruitoppervlakken moeten vrij blijven, met uitzondering van de voorruitstrip voor de JYR- sponsor, de rijdersnaamaanduidingen en het wedstrijdnummer op de voor-, achter- en achterzijruiten. 
 
 # Art. 10 Geluid
 Maximaal geluid op Circuit Zandvoort: 88 dB(A) gemeten op de officiële geluidsmeter. Maximaal geluid op TT Circuit Assen: 98 dB(A) gemeten op de officiële geluidsmeter Het OC heeft het recht om auto’s, die meer dan het maximale geluid produceren, binnen te halen en uit te sluiten voor het evenement. 
@@ -172,59 +157,51 @@ Grote reparaties dienen in de pitbox worden uitgevoerd.
 ### 11.4.6 
 Bij het wissel van de banden dient de motor uit te staan.
 
-# Art. 11.5 Pitstop Tanken
+## Art. 11.5 Pitstop Tanken
 Het tanken buiten de wedstrijd om en dus ook bij de vrije training dient te gebeuren bij de
 pomp van het circuit.
-11.5.1 Het tanken van de auto tijdens de wedstrijd dient altijd te gebeuren op de door de OC
+### 11.5.1 
+Het tanken van de auto tijdens de wedstrijd dient altijd te gebeuren op de door de OC
 beschikbaar gestelde tankplaats. Tanken op eigen gelegenheid kan leiden tot mogelijke
 uitsluitsel.
-11.5.2 De organisatie tankt de auto met de installatie van de organisatie.
-11.5.3 Tijdens het tanken dient de motor uit te staan en de coureur in de auto te blijven met
+### 11.5.2 
+De organisatie tankt de auto met de installatie van de organisatie.
+### 11.5.3 
+Tijdens het tanken dient de motor uit te staan en de coureur in de auto te blijven met
 gesloten ramen.
-11.5.4 Teamleden mogen niet in de tankzone komen.
-11.5.5 Bij afwezigheid van een pomp op het circuit kan buiten de wedstrijd om gebruik
+### 11.5.4 
+Teamleden mogen niet in de tankzone komen.
+### 11.5.5 
+Bij afwezigheid van een pomp op het circuit kan buiten de wedstrijd om gebruik
 worden gemaakt van een jerrycan. Deze jerrycan mag alleen worden gebruikt in de door de
 OC beschikbaar gestelde tankplaats.
 
 # Art. 11.6 Rijderswissel
-11.6.1 Het minimaal aantal wissels dat moet worden uitgevoerd is 11, kortom 12 stints.
-11.6.2 De laatste wissel, inclusief het uitrijden van de pitstraat, moet worden uitgevoerd voor
-het vallen van de finishvlag.
-11.6.3 Een coureur mag niet langer dan 45 minuten aaneengesloten in de auto zitten. Dit is
-de tijd tussen het uitrijden van de pitstraat en het weer inrijden van de pitstraat. Bij de finish
-telt de eindtijd volgens het tijdschema als einde van de stint.
-11.6.4 Een coureur moet 15 minuten rust nemen tussen 2 stints. Dit is de tijd tussen de
-zojuist gereden stint en de volgende stint die de coureur gaat rijden, gemeten vanaf het in-
-en uitrijden van de pitstraat.
-5 5
-20 maart 2024
-11.6.5 Bij onenigheid over het aantal uitgevoerde wissels, de duur van de stints en de
-pauzes tussen de stints ligt de bewijslast bij het team zelf door middel van een ingevuld JYR
-Rijderswissel document.
+### 11.6.1 
+Het minimaal aantal wissels dat moet worden uitgevoerd is 11, kortom 12 stints.
+### 11.6.2 
+De laatste wissel, inclusief het uitrijden van de pitstraat, moet worden uitgevoerd voor het vallen van de finishvlag.
+### 11.6.3 
+Een coureur mag niet langer dan 45 minuten aaneengesloten in de auto zitten. Dit is de tijd tussen het uitrijden van de pitstraat en het weer inrijden van de pitstraat. Bij de finish telt de eindtijd volgens het tijdschema als einde van de stint.
+### 11.6.4 
+Een coureur moet 15 minuten rust nemen tussen 2 stints. Dit is de tijd tussen de zojuist gereden stint en de volgende stint die de coureur gaat rijden, gemeten vanaf het in -en uitrijden van de pitstraat.
+### 11.6.5 
+Bij onenigheid over het aantal uitgevoerde wissels, de duur van de stints en de pauzes tussen de stints ligt de bewijslast bij het team zelf door middel van een ingevuld JYR Rijderswissel document.
 
-# Art. 11.7 Race uitslag
-De voorlopige uitslag wordt direct na de race op het officiële publicatiebord vermeld. Indien
-er geen protesten etc. binnen 30 minuten na publicatie van deze voorlopige uitslag zijn, kan
-de uitslag definitief worden verklaard.
+## Art. 11.7 Race uitslag
+De voorlopige uitslag wordt direct na de race op het officiële publicatiebord vermeld. Indien er geen protesten etc. binnen 30 minuten na publicatie van deze voorlopige uitslag zijn, kan de uitslag definitief worden verklaard.
 
-# Art. 11.8 Referentietijd
-Er is één referentietijd voor alle divisies voor zowel de vrije trainingen als de race.
-De referentietijden voor Zandvoort met GP-chicane is vastgelegd op 2 minuten en 19
-seconden:
+## Art. 11.8 Referentietijd
+Er is één referentietijd voor alle divisies voor zowel de vrije trainingen als de race. De referentietijden voor Zandvoort met GP-chicane is vastgelegd op 2 minuten en 19 seconden: 
 De referentietijd kan nog worden aangepast door het OC na de vrije training.
 Momenteel is er nog geen referentietijd voor TT Circuit Assen vastgesteld.
-Vrije trainingen.
-Indien tijdens de vrije trainingen een deelnemer sneller is dan de referentietijd, dan worden
-deze overschrijdingen niet bestraft.
-Wedstrijd.
-Indien tijdens de wedstrijd een deelnemer sneller is dan de referentietijd, dan wordt deze
-ronde direct geschrapt en kan men deze ronde(n) als verloren beschouwen. Tevens wordt
-men gestraft met een Stop & Go penalty.
+### Vrije trainingen 
+Indien tijdens de vrije trainingen een deelnemer sneller is dan de referentietijd, dan worden deze overschrijdingen niet bestraft.
+### Wedstrijd
+Indien tijdens de wedstrijd een deelnemer sneller is dan de referentietijd, dan wordt deze ronde direct geschrapt en kan men deze ronde(n) als verloren beschouwen. Tevens wordt men gestraft met een Stop & Go penalty.
 
 # Art. 11.9 Herstartprocedure
-Na het stilleggen van een wedstrijd door een code rood, zal de race worden herstart conform
-dezelfde procedure als omschreven in 
-# Art. 11.3 Startprocedure.
+Na het stilleggen van een wedstrijd door een code rood, zal de race worden herstart conform dezelfde procedure als omschreven in **Art. 11.3 Startprocedure**
 
 # Art. 11.10 Parc Fermé
 Na de finish kan de TC auto’s opnieuw controleren op conformiteit van het reglement. 
@@ -236,24 +213,16 @@ Telemetrie, datalogging, communicatie en laptimers zijn niet toegestaan. Voor co
 De transponder dient gemonteerd te zijn op het rechter achterscherm, zover mogelijk naar achteren, maar nog wel boven de aansluiting met de achterbumper. De montage dient te geschieden met een 8 mm draadeind welke 40 mm uit de auto steekt. Op deze draadeind moet een dubbele borgmoer komen met een afsluitring.  45 mm onder het hart van de borgmoer moeten 2 gaten in de carrosserie komen, waar een tie-wrap doorgevoerd kan worden voor de montage van de onderkant van de tansponder.
 
 # Art. 13 Straffen
-De wedstrijdleider heeft onder meer als mogelijkheid van straf: de zwarte vlag en dan
-binnenkomen in pitstraat en melden bij het OC, ronde straffen en uit de wedstrijd nemen of
-een alternatieve straf te bedenken.
+De wedstrijdleider heeft onder meer als mogelijkheid van straf: de zwarte vlag en dan binnenkomen in pitstraat en melden bij het OC, ronde straffen en uit de wedstrijd nemen of een alternatieve straf te bedenken. 
+
 In de Junkyardrace Races Straffenlijst 2024 staat een overzicht van straffen die de
-wedstrijdleider normaal gesproken zou kunnen uitspreken. De wedstrijdleider of het OC heeft
-altijd het recht hiervan af te wijken.
+wedstrijdleider normaal gesproken zou kunnen uitspreken. De wedstrijdleider of het OC heeft altijd het recht hiervan af te wijken.
 
 # Art. 13.1. Smoezen regel
-Alle deelnemers moeten er zeker van zijn dat ieder persoon van zijn (technisch) team die
-aan de auto werkt toegang heeft tot de reglementen om ervoor te zorgen dat alles conform
-deze reglementen wordt uitgevoerd. Het niet op de hoogte zijn van deze reglementen zal niet
-gelden als een argument bij een afkeuring.
-Op ieder moment van het evenement zijn rijder en inschrijver verantwoordelijk voor de
-conformiteit van de auto en zijn ze verantwoordelijk voor hun eigen team.
+Alle deelnemers moeten er zeker van zijn dat ieder persoon van zijn (technisch) team die aan de auto werkt toegang heeft tot de reglementen om ervoor te zorgen dat alles conform deze reglementen wordt uitgevoerd. Het niet op de hoogte zijn van deze reglementen zal niet gelden als een argument bij een afkeuring. Op ieder moment van het evenement zijn rijder en inschrijver verantwoordelijk voor de conformiteit van de auto en zijn ze verantwoordelijk voor hun eigen team.
 
 # Art. 14 Prijzen
-Naast het uitreiken van een prijs voor de auto die de meeste afstand heeft afgelegd, zullen
-ook prijzen beschikbaar worden gesteld in andere categorieën. De categorieën zijn:
+Naast het uitreiken van een prijs voor de auto die de meeste afstand heeft afgelegd, zullen ook prijzen beschikbaar worden gesteld in andere categorieën. De categorieën zijn:
 - Het team met de mooiste auto in de gedachten van het thema;
 - Het team met de meeste pech;
 - Het team met de meest bijzondere reparatie tijdens de race;
@@ -262,61 +231,38 @@ Het OC heeft altijd het recht hiervan af te wijken.
 # Art. 15 Technisch Reglement
 
 ## Art. 15.1 Keuring
-Alvorens toegelaten te worden tot de vrije trainingen en races dient elke rijder/inschrijver de
-auto en rijdersuitrusting bij de TC aan te bieden voor de (veiligheid)keuring. De auto en
-rijdersuitrusting worden gelijktijdig gekeurd.
+Alvorens toegelaten te worden tot de vrije trainingen en races dient elke rijder/inschrijver de auto en rijdersuitrusting bij de TC aan te bieden voor de (veiligheid)keuring. De auto en rijdersuitrusting worden gelijktijdig gekeurd.
 
 ### Art. 15.1.1 APK
-De auto moet ook een APK keuring kunnen doorstaan, en vooral op het gebied van
-verlichting en stevigheid van de auto. De auto hoeft dus geen geldende APK te hebben,
-maar wel aan de regels van de APK voldoen.
-
+De auto moet ook een APK keuring kunnen doorstaan, en vooral op het gebied van verlichting en stevigheid van de auto. De auto hoeft dus geen geldende APK te hebben, maar wel aan de regels van de APK voldoen.
 
 ## Art. 15.2 Standaard
-Aan de auto mogen geen prestatieverbeterende aanpassingen worden gedaan. Alle
-onderdelen dienen te zijn, of gelijk te zijn, zoals de auto ooit uit de fabriek is gerold.
-Onderstaande aanpassingen moeten wel in acht worden genomen:
+Aan de auto mogen geen prestatieverbeterende aanpassingen worden gedaan. Alle onderdelen dienen te zijn, of gelijk te zijn, zoals de auto ooit uit de fabriek is gerold. Onderstaande aanpassingen moeten wel in acht worden genomen:
 
 ## Art. 15.3 Minimumgewicht
-Het minimumgewicht van de auto moet zonder brandstof in de tank hetzelfde zijn als de op
-het kenteken aangegeven ledig gewicht verminderd met 50 kg.
+Het minimumgewicht van de auto moet zonder brandstof in de tank hetzelfde zijn als de op het kenteken aangegeven ledig gewicht verminderd met 50 kg.
 
 ## Art. 15.4 Luchtfilter
-Het gebruik van een sportluchtfilter is toegestaan. Het luchtfilter mag alleen in de originele
-behuizing worden geplaatst of in de vrij ruimte op de originele locatie. Zogenaamde airbox
-constructie is niet toegestaan.
+Het gebruik van een sportluchtfilter is toegestaan. Het luchtfilter mag alleen in de originele behuizing worden geplaatst of in de vrij ruimte op de originele locatie. Zogenaamde airbox constructie is niet toegestaan.
 
 ## Art. 15.5 Banden
-Alle auto’s zijn verplicht om op APK waardige banden te rijden. Dat betekent banden met in
-ieder geval een profiel. Slicks zijn niet toegestaan. De aanschaf van de band mag niet meer
-dan € 100 per band kosten (retailprijs). Geadviseerd wordt de Hankook K107, de Nankang
-NS2R 180 of een soortgelijk type.
+Alle auto’s zijn verplicht om op APK waardige banden te rijden. Dat betekent banden met in ieder geval een profiel. Slicks zijn niet toegestaan. De aanschaf van de band mag niet meer dan € 100 per band kosten (retailprijs). Geadviseerd wordt de Hankook K107, de Nankang NS2R 180 of een soortgelijk type.
 
 ## Art. 15.6 Wagenhoogte
-a. De minimale afstand tussen de bovenkant van de originele wielkast en de bovenkant van
-de band, moet te allen tijde 20 mm zijn. Gemeten zoals op onderstaand figuur. Divisie III
-deelnemers zijn vrijgesteld van deze regel.
+a. De minimale afstand tussen de bovenkant van de originele wielkast en de bovenkant van de band, moet te allen tijde 20 mm zijn. Gemeten zoals op onderstaand figuur. Divisie III deelnemers zijn vrijgesteld van deze regel.
 b. De velgen en banden mogen niet uitsteken aan de buitenkant van de carrosserie.
 
 ## Art. 15.7 Wielophanging
-De wielophanging, dient te zijn zoals door de fabrikant geleverd is. Het gebruik van
-schroefveren of instelbare schokbrekers is niet toegestaan.
-Er mogen sportieve niet instelbare schokbrekers worden toegepast, maar te allen tijde moet
-de auto blijven voldoen aan artikel 15.6.
+De wielophanging, dient te zijn zoals door de fabrikant geleverd is. Het gebruik van schroefveren of instelbare schokbrekers is niet toegestaan. Er mogen sportieve niet instelbare schokbrekers worden toegepast, maar te allen tijde moet de auto blijven voldoen aan artikel 15.6.
 
 ### Art. 15.7.1 Veerpoten
-De veerpoten dienen te zijn zoals door de fabrikant geleverd is. Het gebruik van een
-veerpootbrug is niet toegestaan.
-
+De veerpoten dienen te zijn zoals door de fabrikant geleverd is. Het gebruik van een veerpootbrug is niet toegestaan.
 
 ## Art. 15.8 Remsysteem
-Standaard zoals het op deze auto geleverd is. Alle flexibele rubberen slangen mogen
-vervangen worden door stalen varianten.
+Standaard zoals het op deze auto geleverd is. Alle flexibele rubberen slangen mogen vervangen worden door stalen varianten.
 
 ## Art. 15.9 Stuurinrichting
-Het stuurwiel is vrij. Naar keuze van de rijder kan een spacer tot een maximum van 10 cm
-worden gemonteerd. Alleen een stuur met een gesloten buitenomtrek is toegestaan.
-Het is verplicht het stuurslot te verwijderen.
+Het stuurwiel is vrij. Naar keuze van de rijder kan een spacer tot een maximum van 10 cm worden gemonteerd. Alleen een stuur met een gesloten buitenomtrek is toegestaan. Het is verplicht het stuurslot te verwijderen.
 
 ## Art. 15.10 Carrosserie
 De carrosserie dient in de basis te zijn zoals door de fabrikant is geleverd. Er mogen
@@ -390,39 +336,43 @@ auto.
 
 ### Art. 15.19.3 Veiligheidsgordels
 Verplicht is een 6 punts gordel.
-Zie voor de levensduur, geldigheid van de keurmerken ons addendum aan het einde van dit
-document: “Addendum I Levensduur, geldigheid van keurmerken”.
-Veiligheidsgordels met losse stiksels, of die gerafeld zijn dan wel vanwege een zware
-aanrijding beschadigd zijn, zijn onbruikbaar en dienen voor de eigen veiligheid van de
-gebruiker vervangen te worden.
-De hoeken van de gordels, buiten de stoel, moeten zich binnen de groene zones bevinden
-zoals op bovenstaande tekening wordt aangegeven.
+Zie voor de levensduur, geldigheid van de keurmerken ons addendum aan het einde van dit document: “Addendum I Levensduur, geldigheid van keurmerken”.
 
-Als bevestiging op een standaard-gordelbevestigingspunt niet mogelijk is voor schouder-
-en/of kruisbanden, dienen nieuwe bevestigingspunten te worden aangebracht op
-chassis/carrosserie. De schouderbanden mogen ook worden bevestigd aan de rolkooi of aan
-een versterkingsstang door middel van een lus, en mogen evenzo worden bevestigd aan de
-bevestigingspunten (boven) van de achtergordels of worden bevestigd aan of geleid worden
-over een dwarsversteviging, die aan de achterafsteuningen van de rolkooi is gelast. Deze
-dwarsversteviging moet een buis zijn van minimaal 38 mm in diameter x 2,5 mm dikte of 40
-mm in diameter en 2 mm dikte gemaakt van koudgetrokken naadloos koolstofstaal.
+Veiligheidsgordels met losse stiksels, of die gerafeld zijn dan wel vanwege een zware aanrijding beschadigd zijn, zijn onbruikbaar en dienen voor de eigen veiligheid van de gebruiker vervangen te worden.
+
+De hoeken van de gordels, buiten de stoel, moeten zich binnen de groene zones bevinden zoals op bovenstaande tekening wordt aangegeven.
+
+Als bevestiging op een standaard-gordelbevestigingspunt niet mogelijk is voor schouder- en/of kruisbanden, dienen nieuwe bevestigingspunten te worden aangebracht op chassis/carrosserie. De schouderbanden mogen ook worden bevestigd aan de rolkooi of aan een versterkingsstang door middel van een lus, en mogen evenzo worden bevestigd aan de bevestigingspunten (boven) van de achtergordels of worden bevestigd aan of geleid worden over een dwarsversteviging, die aan de achterafsteuningen van de rolkooi is gelast. Deze dwarsversteviging moet een buis zijn van minimaal 38 mm in diameter x 2,5 mm dikte of 40 mm in diameter en 2 mm dikte gemaakt van koudgetrokken naadloos koolstofstaal.
 - De banden mogen worden bevestigd d.m.v. lussen.
-- Als een bevestigingspunt voor de bevestiging van twee banden wordt gebruikt, zal de toe te
-passen belasting gelijk zijn aan de som van de verlangde lasten. Voor ieder nieuw te maken
-bevestigingspunt moet een verstevigingsplaat worden gebruikt met een oppervlakte van
-tenminste 40 cm2 en een dikte van tenminste 3 mm.
+- Als een bevestigingspunt voor de bevestiging van twee banden wordt gebruikt, zal de toe te passen belasting gelijk zijn aan de som van de verlangde lasten. Voor ieder nieuw te maken bevestigingspunt moet een verstevigingsplaat worden gebruikt met een oppervlakte van tenminste 40 cm2 en een dikte van tenminste 3 mm.
 - De heupgordels bevestigingsogen dienen zo dicht mogelijk naast de stoel te zitten
-Voor bevestiging van de gordels aan het chassis dient men FIA-gordelogen te gebruiken,
-zoals op onderstaande afbeelding.
-Deze gordelogen dienen worden bevestigd aan het chassis met een daarvoor ontworpen 3
-mm plaatje met een oppervlakte van minimaal 40 cm2 zoals op onderstaande afbeelding.
-11 11
-20 maart 2024
+Voor bevestiging van de gordels aan het chassis dient men FIA-gordelogen te gebruiken,zoals op onderstaande afbeelding.
+Deze gordelogen dienen worden bevestigd aan het chassis met een daarvoor ontworpen 3mm plaatje met een oppervlakte van minimaal 40 cm2 zoals op onderstaande afbeelding.
+
 
 ### Art. 15.19.4 Rolkooi
 De auto dient te zijn voorzien van een rolkooi.
+
 De rolkooi dient te voldoen aan de volgende eisen:
-Het hoofddeel bij de B-stijlen moet uit 1 deel bestaan van een stalenbuis met een minimale diameter van 45 mm met een staaldikte 2,5 mm of een stalenbuis met een diameter van 50 mm met een staaldikte van 2 mm. Zie figuur hierboven Alle verbindingslassen dienen geheel rondom uitgevoerd te worden. Alle buizen die vanaf hier naar onderen worden benoemd dienen een minimale diameter te hebben van 40 mm met een staaldikte van 2 mm of een diameter hebben van 38 mm met een staaldikte van 2,5 mm. De A stijl buizen dienen allebei uit 1 deel te bestaan en dienen zo dicht mogelijk langs de A stijl en het dak aangebracht te worden. Zie figuur hierboven. De achterkant van de kooi dient te bestaan uit drie delen, die een N vormen. De poten dienen idealiter op de wielkasten te worden geplaatst. Zie figuur hierboven. De stalen buizen mogen niet koud aan de carrosserie worden gelast. Deze dienen op minimaal 3 mm stalen platen te worden bevestigd. De vier voorste buizen moeten worden bevestigd op platen met ieder een minimale oppervlakte van 120 cm2. De twee achterste buizen op de wielkasten moeten ieder worden bevestigd op een minimaal 3 mm stalen plaat met ieders een minimale oppervlakte van 60 cm2 Een zogenaamde schroefkooi is ook toegestaan maar deze moet dan op deze stalen platen worden bevestigd met 3 minimaal 8 mm bouten op de 4 hoofdstaanders met een sterkte indicatie van 8.8. Bij de twee achterste poten moeten minimaal twee 8 mm bouten met een sterkte indicatie van 8.8 worden gebruikt. Zie figuur hierboven. In het verticale B stijl gedeelte dient minimaal 1 diagonaal aangebracht te worden. Zie figuur hierboven.  In het dak dient 1 diagonaal aangebracht te worden zoals op tekening en de A-stijlen dienen verbonden te worden aan de voorkant. Zie figuur hierboven. Aan de zijkanten dienen aan allebei de kanten een buis te zitten. Dit kan diagonaal en bij een dubbele uitvoering als kruis of horizontaal. Aan de bestuurderskant is het niet verplicht een dubbele buis te hebben, maar wij adviseren dit ten strengste. Zie figuur hierboven. Delen van de rolkooi waar de rijder (bij een crash) mee in aanraking kan komen, dienen te worden voorzien van FIA gekeurd schokabsorberend brandvertragend materiaal, zogenaamde padding. Zie voor de levensduur, geldigheid van de keurmerken ons addendum aan het einde van dit document: “Addendum I Levensduur, geldigheid van keurmerken”.
+Het hoofddeel bij de B-stijlen moet uit 1 deel bestaan van een stalenbuis met een minimale diameter van 45 mm met een staaldikte 2,5 mm of een stalenbuis met een diameter van 50 mm met een staaldikte van 2 mm. Zie figuur hierboven 
+
+Alle verbindingslassen dienen geheel rondom uitgevoerd te worden. 
+
+Alle buizen die vanaf hier naar onderen worden benoemd dienen een minimale diameter te hebben van 40 mm met een staaldikte van 2 mm of een diameter hebben van 38 mm met een staaldikte van 2,5 mm. 
+
+De A stijl buizen dienen allebei uit 1 deel te bestaan en dienen zo dicht mogelijk langs de A stijl en het dak aangebracht te worden. Zie figuur hierboven. 
+
+De achterkant van de kooi dient te bestaan uit drie delen, die een N vormen. De poten dienen idealiter op de wielkasten te worden geplaatst. Zie figuur hierboven. 
+
+De stalen buizen mogen niet koud aan de carrosserie worden gelast. Deze dienen op minimaal 3 mm stalen platen te worden bevestigd. De vier voorste buizen moeten worden bevestigd op platen met ieder een minimale oppervlakte van 120 cm2. De twee achterste buizen op de wielkasten moeten ieder worden bevestigd op een minimaal 3 mm stalen plaat met ieders een minimale oppervlakte van 60 cm2 Een zogenaamde schroefkooi is ook toegestaan maar deze moet dan op deze stalen platen worden bevestigd met 3 minimaal 8 mm bouten op de 4 hoofdstaanders met een sterkte indicatie van 8.8. Bij de twee achterste poten moeten minimaal twee 8 mm bouten met een sterkte indicatie van 8.8 worden gebruikt. Zie figuur hierboven. 
+
+In het verticale B stijl gedeelte dient minimaal 1 diagonaal aangebracht te worden. Zie figuur hierboven.  
+
+In het dak dient 1 diagonaal aangebracht te worden zoals op tekening en de A-stijlen dienen verbonden te worden aan de voorkant. Zie figuur hierboven. 
+
+Aan de zijkanten dienen aan allebei de kanten een buis te zitten. Dit kan diagonaal en bij een dubbele uitvoering als kruis of horizontaal. Aan de bestuurderskant is het niet verplicht een dubbele buis te hebben, maar wij adviseren dit ten strengste. Zie figuur hierboven. 
+
+Delen van de rolkooi waar de rijder (bij een crash) mee in aanraking kan komen, dienen te worden voorzien van FIA gekeurd schokabsorberend brandvertragend materiaal, zogenaamde padding. Zie voor de levensduur, geldigheid van de keurmerken ons addendum aan het einde van dit document: “Addendum I Levensduur, geldigheid van keurmerken”.
 
 # Art. 15.19.5 Brandblussers/brandblussysteem
 Een handblusser met een inhoud van tenminste 2 kg. (poeder) of 2,4 liter (AFFF-schuim) is verplicht en dient uiterst stevig gemonteerd te zijn (bevestiging moet kracht 25 G kunnen doorstaan) door middel van twee metalen banden en een zogenaamde anti-torpedo beugel welke tegengaat dat de blusser uit de stalen banden kan glijden - tegenwoordig standaard meegeleverd met een door de FIA toegestane autosport-brandblusser. Tevens dient de brandblusser gekeurd te zijn en niet verlopen qua keuringsdatum.
@@ -448,7 +398,9 @@ Gedurende het gehele evenement is roken in de pitstraat en pitboxen ten alle tij
 Op de race-dag zijn alcoholische dranken in de pitstraat, pitboxen en directe omgeving verboden voor alle aanwezigen, dus zowel coureurs (logischerwijs!), teamgenoten als toeschouwers. Alcohol mag dan alleen worden genuttigd in de aangelegen restaurants en bars. Pas na de race, als alle auto’s terug zijn in de pitstraat, mag alcohol worden gedronken. Ook is het niet toegestaan om alcohol mee te nemen naar de technische keuring en/of daar te nuttigen. Ook het nuttigen van “alcoholische dranken” met 0,0% alcohol ontmoedigen wij, om verwarring bij deelnemers en pitlane officials te voorkomen.
 
 # Art. 17 Vrijwaringsverklaring
-De vrijwaringsverklaring zoals opgenomen op de website bij aanmelding van teamcaptains en teamgenoten voor een race. Zonder acceptatie van de vrijwaringsverklaring mag en kan er niet deelgenomen worden aan de race. De deelnemer aan enige door Junkyardrace georganiseerde activiteit, verklaart zich bewust te zijn van het feit dat deelname aan trainingen en/of races, resp. demonstraties, dan wel andere activiteiten op de baan/ het circuit, een aanvaarding van risico’s op schade inhoudt, zowel voor hem-/ haarzelf, alsook voor derden. Dit kan personenschade (letselschade) betreffen, maar ook schade aan goederen van de deelnemer en/of aan goederen van derden, schade aan de baan/ het circuit daaronder uitdrukkelijk begrepen. De deelnemer neemt deze risico’s uitdrukkelijk voor zijn/haar rekening. De organisatie van de Junkyardrace en haar respectievelijke bestuursleden, officials en medewerkers, aanvaarden geen enkele aansprakelijkheid voor welke schade dan ook – ongeacht waaruit die schade bestaat en hoe die is ontstaan - die de deelnemer in verband met deelname aan een evenement lijdt, dan wel aan derden of andere betrokkenen veroorzaakt. De deelnemer verklaart dat hij/zij nimmer de organisatie van de Junkyardrace of haar respectievelijke bestuursleden, officials en/ of medewerkers aansprakelijk zal stellen of houden voor enige door hem/haar geleden schade, materieel of immaterieel, letselschade daaronder begrepen. Door inschrijving voor deelname aan enige door Junkyardrace georganiseerde activiteit middels het digitale inschrijfformulier op www.jyr.nl gaat de deelnemer uitdrukkelijk akkoord met de bovenstaande bepalingen.
+De vrijwaringsverklaring zoals opgenomen op de website bij aanmelding van teamcaptains en teamgenoten voor een race. Zonder acceptatie van de vrijwaringsverklaring mag en kan er niet deelgenomen worden aan de race. 
+
+De deelnemer aan enige door Junkyardrace georganiseerde activiteit, verklaart zich bewust te zijn van het feit dat deelname aan trainingen en/of races, resp. demonstraties, dan wel andere activiteiten op de baan/ het circuit, een aanvaarding van risico’s op schade inhoudt, zowel voor hem-/ haarzelf, alsook voor derden. Dit kan personenschade (letselschade) betreffen, maar ook schade aan goederen van de deelnemer en/of aan goederen van derden, schade aan de baan/ het circuit daaronder uitdrukkelijk begrepen. De deelnemer neemt deze risico’s uitdrukkelijk voor zijn/haar rekening. De organisatie van de Junkyardrace en haar respectievelijke bestuursleden, officials en medewerkers, aanvaarden geen enkele aansprakelijkheid voor welke schade dan ook – ongeacht waaruit die schade bestaat en hoe die is ontstaan - die de deelnemer in verband met deelname aan een evenement lijdt, dan wel aan derden of andere betrokkenen veroorzaakt. De deelnemer verklaart dat hij/zij nimmer de organisatie van de Junkyardrace of haar respectievelijke bestuursleden, officials en/ of medewerkers aansprakelijk zal stellen of houden voor enige door hem/haar geleden schade, materieel of immaterieel, letselschade daaronder begrepen. Door inschrijving voor deelname aan enige door Junkyardrace georganiseerde activiteit middels het digitale inschrijfformulier op www.jyr.nl gaat de deelnemer uitdrukkelijk akkoord met de bovenstaande bepalingen.
 
 # Art. 18 Slotbepaling
 In geval van conflicten met betrekking tot de interpretatie van de tekst van deze reglementen en aanhangsels en in alle gevallen waarin dit reglement niet voorziet, beslist de TC in samenspraak met de JYR-organisatie. Als dit geen uitsluitsel geeft, zal de organisatie commissie beslissen gebaseerd op criteria in de geest van deze reglementen. Alleen de Nederlandse tekst van deze reglementen (en bijlagen) worden beschouwd als rechtsgeldig.
