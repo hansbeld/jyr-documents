@@ -143,18 +143,18 @@ Er is geen kwalificatie er is alleen een vrije training.
 Alle baanposten tonen de code 60 vlag. Op de op het tijdschema vermelde startijd gaat het stoplicht aan het einde van de pitstraat op groen. Op alle baanposten wordt de code 60 vlag getoond. Het stoplicht aan het einde van de pitstraat gaat na 6 minuten weer op rood. In deze periode van 6 minuten hebben alle equipes de tijd om het circuit op te rijden onder “code 60”. In de volgende periode van 6 minuten wordt de “code 60” opgeheven door middel van een groene vlag die gelijktijdig wordt getoond op alle baanposten. Dit is de officiële start van de wedstrijd. Voor elke equipe geldt dan, als zij de eerste keer over start/finish rijden, dat de start van de wedstrijd is. Het licht in de pitstraat gaat op groen 3 minuten nadat “code 60” is opgeheven. Als er equipes vanuit de pitstraat starten, dan zal het rijden over de tijdwaarneming lus einde pitstraat worden gezien als de start van de wedstrijd van deze equipes. De exacte tijd dat de start plaats gaat vinden binnen de 6 minuten starttijd, wordt bepaald door de wedstrijdleiding en geheimgehouden. Er geldt bij “code 60” tijdens de startprocedure ook een minimale gemiddelde snelheid van 45 km/u om gevaarlijke situaties zoals opstoppingen bij start/finish te voorkomen.
 
 ## Art. 11.4 Pitstop wisselen rijder/reparaties
-### 11.4.1 Snelheid
+### Art. 11.4.1 Snelheid
 De maximum snelheid in de pitstraat is het gehele evenement 50 kilometer per uur.
-### 11.4.2 Wisselen rijder/ reparaties/ onderhoud
+### Art. 11.4.2 Wisselen rijder/ reparaties/ onderhoud
 Het wisselen van de rijder en het uitvoeren van reparaties mogen alleen worden
 uitgevoerd voor de pitbox als de auto stilstaat.
-### 11.4.3 
+### Art. 11.4.3 
 Bij het wisselen van de rijder mag de motor blijven lopen.
-### 11.4.4 
+### Art. 11.4.4 
 Bij reparaties/onderhoud moet de motor altijd uit.
-### 11.4.5 
+### Art. 11.4.5 
 Grote reparaties dienen in de pitbox worden uitgevoerd.
-### 11.4.6 
+### Art. 11.4.6 
 Bij het wissel van de banden dient de motor uit te staan.
 
 ## Art. 11.5 Pitstop Tanken
@@ -218,7 +218,7 @@ De wedstrijdleider heeft onder meer als mogelijkheid van straf: de zwarte vlag e
 In de Junkyardrace Races Straffenlijst 2024 staat een overzicht van straffen die de
 wedstrijdleider normaal gesproken zou kunnen uitspreken. De wedstrijdleider of het OC heeft altijd het recht hiervan af te wijken.
 
-# Art. 13.1. Smoezen regel
+## Art. 13.1. Smoezen regel
 Alle deelnemers moeten er zeker van zijn dat ieder persoon van zijn (technisch) team die aan de auto werkt toegang heeft tot de reglementen om ervoor te zorgen dat alles conform deze reglementen wordt uitgevoerd. Het niet op de hoogte zijn van deze reglementen zal niet gelden als een argument bij een afkeuring. Op ieder moment van het evenement zijn rijder en inschrijver verantwoordelijk voor de conformiteit van de auto en zijn ze verantwoordelijk voor hun eigen team.
 
 # Art. 14 Prijzen
@@ -300,7 +300,7 @@ Tijdens de wedstrijd wordt de brandstof aangeleverd en getankt door de JYR organ
 Tijdens de vrije training en voor aanvang van de wedstrijd is het team zelf verantwoordelijk
 voor de brandstof. Zie ook artikel “11.5 Pitstop tanken”.
 
-# Art. 15.17 Koelvloeistof
+## Art. 15.17 Koelvloeistof
 Als koelvloeistof voor de motor mag alleen water worden gebruikt.
 
 ## Art. 15.18 Overige
@@ -374,27 +374,27 @@ Aan de zijkanten dienen aan allebei de kanten een buis te zitten. Dit kan diagon
 
 Delen van de rolkooi waar de rijder (bij een crash) mee in aanraking kan komen, dienen te worden voorzien van FIA gekeurd schokabsorberend brandvertragend materiaal, zogenaamde padding. Zie voor de levensduur, geldigheid van de keurmerken ons addendum aan het einde van dit document: “Addendum I Levensduur, geldigheid van keurmerken”.
 
-# Art. 15.19.5 Brandblussers/brandblussysteem
+### Art. 15.19.5 Brandblussers/brandblussysteem
 Een handblusser met een inhoud van tenminste 2 kg. (poeder) of 2,4 liter (AFFF-schuim) is verplicht en dient uiterst stevig gemonteerd te zijn (bevestiging moet kracht 25 G kunnen doorstaan) door middel van twee metalen banden en een zogenaamde anti-torpedo beugel welke tegengaat dat de blusser uit de stalen banden kan glijden - tegenwoordig standaard meegeleverd met een door de FIA toegestane autosport-brandblusser. Tevens dient de brandblusser gekeurd te zijn en niet verlopen qua keuringsdatum.
 
-# Art. 15.19.6 Sleepoog
+### Art. 15.19.6 Sleepoog
 De wagen moet voorzien zijn van een sterk en deugdelijk bevestigd sleepoog aan voor- en achterzijde. Het sleepoog moet duidelijk zichtbaar zijn door deze in een contrasterende kleur (t.o.v. de achtergrond) te schilderen. De binnen diameter moet minimaal 5 cm zijn. De sleepogen mogen niet uitsteken buiten de contouren van de auto.
 
-# Art. 15.19.7 Stroomonderbreker
+### Art. 15.19.7 Stroomonderbreker
 De hoofdstroomschakelaar moet alle elektrische circuits onderbreken (accu, dynamo, lichten, claxons, ontsteking, elektrische bedieningen etc.) en moet ook de motor uitzetten. Het moet een vonkvrij model zijn en zowel binnen als buiten de auto bereikbaar zijn. Voor wat betreft de buitenzijde van gesloten auto’s, moet het bedieningsmechanisme bij de onderzijde van de voorruit bevestigingen zijn geplaatst. De plaats moet duidelijk zichtbaar zijn aangegeven door een rode schicht (spark) binnen een blauwe driehoek, met witte rand.
 
 # Art. 16 Pitlane reglementen
 
-# Art. 16.1 Kinderen
+## Art. 16.1 Kinderen
 Kinderen onder de 16 jaar worden niet toegelaten in de pitstraat.
 
-# Art. 16.2 Dieren
+## Art. 16.2 Dieren
 Dieren zoals honden zijn niet toegestaan in de pitstraat en pitboxen.
 
-# Art. 16.3 Roken
+## Art. 16.3 Roken
 Gedurende het gehele evenement is roken in de pitstraat en pitboxen ten alle tijde verboden.
 
-# Art. 16.3 Alcohol
+## Art. 16.3 Alcohol
 Op de race-dag zijn alcoholische dranken in de pitstraat, pitboxen en directe omgeving verboden voor alle aanwezigen, dus zowel coureurs (logischerwijs!), teamgenoten als toeschouwers. Alcohol mag dan alleen worden genuttigd in de aangelegen restaurants en bars. Pas na de race, als alle auto’s terug zijn in de pitstraat, mag alcohol worden gedronken. Ook is het niet toegestaan om alcohol mee te nemen naar de technische keuring en/of daar te nuttigen. Ook het nuttigen van “alcoholische dranken” met 0,0% alcohol ontmoedigen wij, om verwarring bij deelnemers en pitlane officials te voorkomen.
 
 # Art. 17 Vrijwaringsverklaring
