@@ -210,7 +210,15 @@ Na de finish kan de TC auto’s opnieuw controleren op conformiteit van het regl
 Telemetrie, datalogging, communicatie en laptimers zijn niet toegestaan. Voor communicatie tussen pitstraat en coureur mogen alleen zogenaamde pitborden worden gebruikt. Het gebruik van een door de organisatie voorgeschreven Mylaps / Mylaps transponder is verplicht. Het gebruik van een eigen permanente transponder is toegestaan.
 
 ## Art.12.1 Locatie leentransponder
-De transponder dient gemonteerd te zijn op het rechter achterscherm, zover mogelijk naar achteren, maar nog wel boven de aansluiting met de achterbumper. De montage dient te geschieden met een 8 mm draadeind welke 40 mm uit de auto steekt. Op deze draadeind moet een dubbele borgmoer komen met een afsluitring.  45 mm onder het hart van de borgmoer moeten 2 gaten in de carrosserie komen, waar een tie-wrap doorgevoerd kan worden voor de montage van de onderkant van de tansponder.
+De transponder dient gemonteerd te zijn op het rechter achterscherm, zover mogelijk naar achteren, maar nog wel boven de aansluiting met de achterbumper. 
+
+![image transponder](./images/transponder-1.png)
+
+De montage dient te geschieden met een 8 mm draadeind welke 40 mm uit de auto steekt. Op deze draadeind moet een dubbele borgmoer komen met een afsluitring.  45 mm onder het hart van de borgmoer moeten 2 gaten in de carrosserie komen, waar een tie-wrap doorgevoerd kan worden voor de montage van de onderkant van de tansponder.
+
+![image transponder](./images/transponder-2.png)
+
+
 
 # Art. 13 Straffen
 De wedstrijdleider heeft onder meer als mogelijkheid van straf: de zwarte vlag en dan binnenkomen in pitstraat en melden bij het OC, ronde straffen en uit de wedstrijd nemen of een alternatieve straf te bedenken. 
@@ -250,6 +258,9 @@ Alle auto’s zijn verplicht om op APK waardige banden te rijden. Dat betekent b
 
 ## Art. 15.6 Wagenhoogte
 a. De minimale afstand tussen de bovenkant van de originele wielkast en de bovenkant van de band, moet te allen tijde 20 mm zijn. Gemeten zoals op onderstaand figuur. Divisie III deelnemers zijn vrijgesteld van deze regel.
+
+![image wagenhoogte](./images/wagenhoogte.png)
+
 b. De velgen en banden mogen niet uitsteken aan de buitenkant van de carrosserie.
 
 ## Art. 15.7 Wielophanging
@@ -340,6 +351,8 @@ Zie voor de levensduur, geldigheid van de keurmerken ons addendum aan het einde 
 
 Veiligheidsgordels met losse stiksels, of die gerafeld zijn dan wel vanwege een zware aanrijding beschadigd zijn, zijn onbruikbaar en dienen voor de eigen veiligheid van de gebruiker vervangen te worden.
 
+![image gordels](./images/gordels.png)
+
 De hoeken van de gordels, buiten de stoel, moeten zich binnen de groene zones bevinden zoals op bovenstaande tekening wordt aangegeven.
 
 Als bevestiging op een standaard-gordelbevestigingspunt niet mogelijk is voor schouder- en/of kruisbanden, dienen nieuwe bevestigingspunten te worden aangebracht op chassis/carrosserie. De schouderbanden mogen ook worden bevestigd aan de rolkooi of aan een versterkingsstang door middel van een lus, en mogen evenzo worden bevestigd aan de bevestigingspunten (boven) van de achtergordels of worden bevestigd aan of geleid worden over een dwarsversteviging, die aan de achterafsteuningen van de rolkooi is gelast. Deze dwarsversteviging moet een buis zijn van minimaal 38 mm in diameter x 2,5 mm dikte of 40 mm in diameter en 2 mm dikte gemaakt van koudgetrokken naadloos koolstofstaal.
@@ -347,30 +360,52 @@ Als bevestiging op een standaard-gordelbevestigingspunt niet mogelijk is voor sc
 - Als een bevestigingspunt voor de bevestiging van twee banden wordt gebruikt, zal de toe te passen belasting gelijk zijn aan de som van de verlangde lasten. Voor ieder nieuw te maken bevestigingspunt moet een verstevigingsplaat worden gebruikt met een oppervlakte van tenminste 40 cm2 en een dikte van tenminste 3 mm.
 - De heupgordels bevestigingsogen dienen zo dicht mogelijk naast de stoel te zitten
 Voor bevestiging van de gordels aan het chassis dient men FIA-gordelogen te gebruiken,zoals op onderstaande afbeelding.
+
+![image gordel-oog](./images/gordel-oog.png)
+
 Deze gordelogen dienen worden bevestigd aan het chassis met een daarvoor ontworpen 3mm plaatje met een oppervlakte van minimaal 40 cm2 zoals op onderstaande afbeelding.
 
+![image gordel-oog](./images/gordel-oog-plaatje.png)
 
 ### Art. 15.19.4 Rolkooi
 De auto dient te zijn voorzien van een rolkooi.
 
 De rolkooi dient te voldoen aan de volgende eisen:
-Het hoofddeel bij de B-stijlen moet uit 1 deel bestaan van een stalenbuis met een minimale diameter van 45 mm met een staaldikte 2,5 mm of een stalenbuis met een diameter van 50 mm met een staaldikte van 2 mm. Zie figuur hierboven 
+
+Het hoofddeel bij de B-stijlen moet uit 1 deel bestaan van een stalenbuis met een minimale diameter van 45 mm met een staaldikte 2,5 mm of een stalenbuis met een diameter van 50 mm met een staaldikte van 2 mm. Zie figuur hieronder
+
+![image kooi](./images/rolkooi-1.png)
 
 Alle verbindingslassen dienen geheel rondom uitgevoerd te worden. 
 
 Alle buizen die vanaf hier naar onderen worden benoemd dienen een minimale diameter te hebben van 40 mm met een staaldikte van 2 mm of een diameter hebben van 38 mm met een staaldikte van 2,5 mm. 
 
-De A stijl buizen dienen allebei uit 1 deel te bestaan en dienen zo dicht mogelijk langs de A stijl en het dak aangebracht te worden. Zie figuur hierboven. 
+De A stijl buizen dienen allebei uit 1 deel te bestaan en dienen zo dicht mogelijk langs de A stijl en het dak aangebracht te worden. Zie figuur hieronder.
 
-De achterkant van de kooi dient te bestaan uit drie delen, die een N vormen. De poten dienen idealiter op de wielkasten te worden geplaatst. Zie figuur hierboven. 
+![image kooi](./images/rolkooi-2.png)
 
-De stalen buizen mogen niet koud aan de carrosserie worden gelast. Deze dienen op minimaal 3 mm stalen platen te worden bevestigd. De vier voorste buizen moeten worden bevestigd op platen met ieder een minimale oppervlakte van 120 cm2. De twee achterste buizen op de wielkasten moeten ieder worden bevestigd op een minimaal 3 mm stalen plaat met ieders een minimale oppervlakte van 60 cm2 Een zogenaamde schroefkooi is ook toegestaan maar deze moet dan op deze stalen platen worden bevestigd met 3 minimaal 8 mm bouten op de 4 hoofdstaanders met een sterkte indicatie van 8.8. Bij de twee achterste poten moeten minimaal twee 8 mm bouten met een sterkte indicatie van 8.8 worden gebruikt. Zie figuur hierboven. 
 
-In het verticale B stijl gedeelte dient minimaal 1 diagonaal aangebracht te worden. Zie figuur hierboven.  
+De achterkant van de kooi dient te bestaan uit drie delen, die een N vormen. De poten dienen idealiter op de wielkasten te worden geplaatst. Zie figuur hieronder.
 
-In het dak dient 1 diagonaal aangebracht te worden zoals op tekening en de A-stijlen dienen verbonden te worden aan de voorkant. Zie figuur hierboven. 
+![image kooi](./images/rolkooi-3.png)
 
-Aan de zijkanten dienen aan allebei de kanten een buis te zitten. Dit kan diagonaal en bij een dubbele uitvoering als kruis of horizontaal. Aan de bestuurderskant is het niet verplicht een dubbele buis te hebben, maar wij adviseren dit ten strengste. Zie figuur hierboven. 
+De stalen buizen mogen niet koud aan de carrosserie worden gelast. Deze dienen op minimaal 3 mm stalen platen te worden bevestigd. De vier voorste buizen moeten worden bevestigd op platen met ieder een minimale oppervlakte van 120 cm2. De twee achterste buizen op de wielkasten moeten ieder worden bevestigd op een minimaal 3 mm stalen plaat met ieders een minimale oppervlakte van 60 cm2 Een zogenaamde schroefkooi is ook toegestaan maar deze moet dan op deze stalen platen worden bevestigd met 3 minimaal 8 mm bouten op de 4 hoofdstaanders met een sterkte indicatie van 8.8. Bij de twee achterste poten moeten minimaal twee 8 mm bouten met een sterkte indicatie van 8.8 worden gebruikt. Zie figuur hieronder.
+
+![image kooi](./images/rolkooi-4.png)
+
+In het verticale B stijl gedeelte dient minimaal 1 diagonaal aangebracht te worden. Zie figuur hieronder.  
+
+![image kooi](./images/rolkooi-5.png)
+
+In het dak dient 1 diagonaal aangebracht te worden zoals op tekening en de A-stijlen dienen verbonden te worden aan de voorkant. Zie figuur hieronder.
+
+![image kooi](./images/rolkooi-6.png)
+
+
+Aan de zijkanten dienen aan allebei de kanten een buis te zitten. Dit kan diagonaal en bij een dubbele uitvoering als kruis of horizontaal. Aan de bestuurderskant is het niet verplicht een dubbele buis te hebben, maar wij adviseren dit ten strengste. Zie figuur hieronder.
+
+![image kooi](./images/rolkooi-7.png)
+
 
 Delen van de rolkooi waar de rijder (bij een crash) mee in aanraking kan komen, dienen te worden voorzien van FIA gekeurd schokabsorberend brandvertragend materiaal, zogenaamde padding. Zie voor de levensduur, geldigheid van de keurmerken ons addendum aan het einde van dit document: “Addendum I Levensduur, geldigheid van keurmerken”.
 
