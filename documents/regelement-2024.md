@@ -29,8 +29,6 @@ Elke inschrijver, die wenst deel te nemen aan een wedstrijd moet het digitale in
 
 # Art. 4.1 Deelnemer
 In de wedstrijd mag een inschrijver per rijder en/of equipe slechts één en dezelfde auto inschrijven en ervan gebruikmaken. Alléén in geval van force majeure kan het OC anders beslissen. Een team bestaat uit minimaal 3 en maximaal 6 rijders.
-1 1
-20 maart 2024
 
 # Art. 4.2 Weigering
 De organisator mag zich het recht voorbehouden iedere kandidatuur te onderzoeken en mag de inschrijving weigeren zonder opgave van reden.
